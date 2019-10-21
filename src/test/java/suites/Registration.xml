@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="Проверка авторизации пользователя">
+    <test name="Проверка авторизации пользователя">
+        <classes>
+            <class name="tests.Registration"/>
+        </classes>
+    </test>
+</suite>
